@@ -1,0 +1,21 @@
+.maiin{
+    background: url('../images/back.jpg');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 490px;
+}
+.main2{
+    background: url('../images/back2.jpg');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 370px;
+}
+.main3{
+    background: url('../images/back3.jpg');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+}
